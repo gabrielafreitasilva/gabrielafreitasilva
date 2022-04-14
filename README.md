@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Análise e Desenvolvimento de sistemas
 - 📫 Contate-me no e-mail: gabi-1518@hotmail.com
-- 😄 Pronouns: Ela/Dela
+- 😄 Ela/Dela
 
 <div align="center">
   <a href="https://github.com/gabrielafreitasilva">
