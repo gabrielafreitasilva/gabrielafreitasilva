@@ -5,9 +5,11 @@
 - 😄 Ela/Dela
 
 <div align="center">
-    
+
 [![gabrielafreitasilva](https://github-readme-stats.vercel.app/api?username=gabrielafreitasilva&theme=highcontrast)](https://github.com/gabrielafreitasilva/)
-[![gabrielafreitasilva](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielafreitasilva&hide=html&layout=compact&theme=highcontrast)](https://github.com/gabrielafreitasilva/)
+
+![gabrielafreitasilva](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielafreitasilva&&layout=compact&theme=highcontrast)
+
   
    
 </div>
