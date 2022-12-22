@@ -2,15 +2,12 @@
 
 - 🌱 Estudando Análise e Desenvolvimento de sistemas
 - 📫 Contate-me no e-mail: gabi-1518@hotmail.com
-- 😄 Ela/Dela
-
+- 
 <div align="center">
 
 [![gabrielafreitasilva](https://github-readme-stats.vercel.app/api?username=gabrielafreitasilva&theme=highcontrast)](https://github.com/gabrielafreitasilva/)
 
-![gabrielafreitasilva](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielafreitasilva&&layout=compact&theme=highcontrast)
-
-  
+![gabrielafreitasilva](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielafreitasilva&&layout=compact&theme=highcontrast)  
    
 </div>
   
