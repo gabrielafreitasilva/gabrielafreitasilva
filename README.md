@@ -1,7 +1,7 @@
 ### Olá, me Chamo Gabriela!👋
 
 - 💻 Estudando Análise e Desenvolvimento de sistemas
-- 🌱 Estudando JAVA com Spring-Boot
+- 🌱 Estudando JavaScript, HTML e CSS.
 
 ##
 
